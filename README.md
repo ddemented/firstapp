@@ -11,6 +11,6 @@ This is my first attempt at iOS app development, hope you like it
 
 Screenshots :
 
-![alt tag](http://github.com/ddemented/firstapp/s1.png)
-![alt tag](http://github.com/ddemented/firstapp/s2.png)
-![alt tag](http://github.com/ddemented/firstapp/s3.png)
+![alt tag](https://github.com/ddemented/firstapp/blob/master/s1.png)
+![alt tag](https://github.com/ddemented/firstapp/blob/master/s2.png)
+![alt tag](https://github.com/ddemented/firstapp/blob/master/s3.png)
